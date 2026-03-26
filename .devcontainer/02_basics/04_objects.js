@@ -23,7 +23,7 @@ const obj2 = {3: "c", 4: "d"}
 // const obj3 = Object.assign({},obj1,obj2)
 // console.log(obj3)
 const obj3 = {...obj1,...obj2}
-// console.log(obj3)
+console.log(obj3)
 // console.log(tinderUser)
 // console.log(Object.keys(tinderUser)) // give value in arr
 // console.log(Object.values(tinderUser))
@@ -40,5 +40,5 @@ const{name : n , gender:g} = person
 // console.log(g)
 
 const navbar = () =>{
-    
+
 }
